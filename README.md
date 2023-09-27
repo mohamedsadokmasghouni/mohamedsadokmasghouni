@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hey 👋, I'm [Mohamed Sadok]!
+### Hey 👋, I'm Mohamed Sadok Masghouni!
 
 <a href="https://www.linkedin.com/in/mohamedsadokmasghouni" target="_blank" rel="noopener noreferrer">
     <img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Sadok's LinkedIn"/>
