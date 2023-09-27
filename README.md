@@ -28,6 +28,9 @@ introduction:
         - English
         - French
         - Arabic
+    bio:
+        - I am a passionate person, looking for every opportunity to learn and work
+        in a professional environment.
 ```
 <div align="center">
 </div>
